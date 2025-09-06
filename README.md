@@ -1,4 +1,4 @@
-<img width="1051" height="738" alt="image" src="https://github.com/user-attachments/assets/318baafe-fc3d-4d7e-93ad-c184df1f0123" /># Project Name  
+# Project Name  
 
 ## 📌 Overview  
 This project is designed to run on **Google Colab**.  
@@ -17,7 +17,7 @@ You can open this project in Google Colab by uploading the notebook
 The pre-trained model weights are hosted on Google Drive.  
 You will need to download them into your Colab environment using the provided Google Drive link.  
 
-**Google Drive Link for Weights:** 
+**Google Drive Link for Weights:** https://drive.google.com/file/d/1T3yHWy9o2dNlafkMxqzG4pp6D-ybPmXj/view?usp=drive_link
 
 ---
 
