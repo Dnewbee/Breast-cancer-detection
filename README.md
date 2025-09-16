@@ -17,7 +17,7 @@ You can open this project in Google Colab by uploading the notebook
 The pre-trained model weights are hosted on Google Drive.  
 You will need to download them into your Colab environment using the provided Google Drive link.  
 
-**Google Drive Link for Weights:** https://drive.google.com/file/d/15sC4o6gCiW_ISJgpirJ_lOcLD5zEelEr/view?usp=sharing
+**Google Drive Link for Weights:** https://drive.google.com/file/d/1T3yHWy9o2dNlafkMxqzG4pp6D-ybPmXj/view?usp=drive_link
 
 ---
 
