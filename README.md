@@ -1,4 +1,4 @@
-# Project Name  
+# CM3015 Machine Learning And Neural Networks 3.2 Project Idea 2 Deep Learning Breast Cancer Detection
 
 ## 📌 Overview  
 This project is designed to run on **Google Colab**.  
